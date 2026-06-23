@@ -4,7 +4,7 @@ import numpy as np
 from wordcloud import WordCloud
 from matplotlib.backends.backend_pdf import PdfPages
 
-# Dataset penerbangan ke negara ASEAN dalam satu minggu
+# Dataset penerbangan ke negara ASEAN dalam dua minggu
 data = {"Negara Tujuan" : [
     "Singapura", "Malaysia", "Vietnam", "Filipina", "Thailand", "Brunei", "Laos"],
     "Frekuensi Penerbangan Minggu ke-1" : [5, 7, 4, 5, 6, 3, 2],
